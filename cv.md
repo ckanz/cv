@@ -1,5 +1,5 @@
 ## Personal Details
-I :heart: code, music & especially data. Born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), BA course in Ireland at [CIT](http://www.cit.ie/), MA degree in Germany at [h_da](https://www.h-da.de/), now working as a happy data visualisation engineer in [London](https://en.wikipedia.org/wiki/London) :bar_chart:
+I :heart: code, music & especially data. I was born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/), finished my master degree in Media Direction at [h_da](https://www.h-da.de/) in Germany, and now I'm happily working as a data visualisation engineer in [London](https://en.wikipedia.org/wiki/London) :bar_chart:
 
 - [Twitter](https://twitter.com/clemens_anzmann)
 - [GitHub](https://github.com/ckanz)
@@ -12,9 +12,9 @@ I :heart: code, music & especially data. Born in [Aschaffenburg](https://en.wiki
 
 Role | Company | Time | Type
 -----|-----|------|------
-Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full­time
-Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full­time
-Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-­time
+Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full-time
+Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full-time
+Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-time
 
 -----
 
@@ -34,9 +34,9 @@ Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-­time
 
 Degree | Institute | Time | Course
 -----|-----|------|------
-__Master of Arts (M.A.), First Class Honours__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
+__Master of Arts (M.A.)__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
 _ERASMUS student_ | Cork Institute of Technology | 09/2011 – 06/2012 | Multimedia Final Year Course
-__Bachelor of Arts (B.A.), First Class Honours__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
+__Bachelor of Arts (B.A.)__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
 
 -----
 
