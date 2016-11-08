@@ -21,13 +21,13 @@ Retailer | Media Markt | 03/2008 - 09/2011 | Part-time (during College)
 
 ## Skills
 - __Languages__
-  - JavaScript, Python, C#, SQL, Bash, PowerShell
+`JavaScript` `Python` `C#` `SQL` `Bash` `PowerShell`
 - __Software__
-  - Plotly, Jupyter, Atom, Vim, Google Cloud, Microsoft Azure, Unity, Tableau, Microsoft Excel, Microsoft Visual Studio
+`Plotly` `Jupyter` `Atom` `Vim` `Google Cloud` `Microsoft Azure` `Unity` `Tableau` `Microsoft Excel`
 - __Design__
-  - Data Visualisation, Interface & Interaction design, User Experience Testing & Design
+`Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
 - __Hardware__
-  - Microsoft Kinect, Arduino
+`Microsoft` `Kinect` `Arduino`
 
 -----
 
