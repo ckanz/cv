@@ -15,7 +15,7 @@ Role | Company | Time | Type
 Data Visualisation Engineer | Kahoot! |Since 09/2015 | Full-time
 Data Experience Engineer | DataShaka | 03/2014 - 09/2015 | Full-time
 Data Curator | DataShaka | 03/2014 - 09/2015 | Part-time (during MA thesis)
-Retailer | Media Markt | 03/2008 - 09/2011 | Part-time (during College)
+Retailer (computers and cell phones) | Media Markt | 03/2008 - 09/2011 | Part-time (during College)
 
 -----
 
@@ -43,6 +43,6 @@ Bachelor of Arts (B.A.) | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital M
 -----
 
 ## Favorite Books
-- Edward R. Tufte, _The Visual Display of Quantitative Information_
+- Edward R. Tufte, _The Visual Display of Quantitative Information_ & _Envisioning Information_
 - Steve Krug, _Don’t make me think_
 - Andy Hunt, _The Pragmatic Programmer_ & _Pragmatic Thinking and Learning_
