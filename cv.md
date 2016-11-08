@@ -1,5 +1,5 @@
 ## Personal Details
-I ❤ code, music & especially data. Born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), BA course in Ireland at [CIT](http://www.cit.ie/), MA degree in Germany at [h_da](https://www.h-da.de/), now working as a happy data visualisation engineer in [London](https://en.wikipedia.org/wiki/London) 📊
+I :heart: code, music & especially data. Born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), BA course in Ireland at [CIT](http://www.cit.ie/), MA degree in Germany at [h_da](https://www.h-da.de/), now working as a happy data visualisation engineer in [London](https://en.wikipedia.org/wiki/London) :bar_chart:
 
 - [Twitter](https://twitter.com/clemens_anzmann)
 - [GitHub](https://github.com/ckanz)
@@ -41,6 +41,6 @@ __Bachelor of Arts (B.A.), First Class Honours__ | Hochschule Darmstadt | 09/200
 -----
 
 ## Favorite Books
-- Edward R. Tufte, The Visual Display of Quantitative Information
-- Steve Krug, Don’t make me think
-- Andy Hunt, The Pragmatic Programmer & Pragmatic Thinking and Learning
+- Edward R. Tufte, _The Visual Display of Quantitative Information_
+- Steve Krug, _Don’t make me think_
+- Andy Hunt, _The Pragmatic Programmer_ & _Pragmatic Thinking and Learning_
