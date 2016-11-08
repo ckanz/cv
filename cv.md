@@ -14,7 +14,8 @@ Role | Company | Time | Type
 -----|-----|------|------
 Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full-time
 Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full-time
-Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-time
+Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-time (during MA thesis)
+Retailer | __Media Markt__ | 03/2008 - 09/2011 | Part-time (during College)
 
 -----
 
@@ -34,6 +35,7 @@ Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-time
 
 Degree | Institute | Time | Course
 -----|-----|------|------
+_Certificate_ | Royal Statistical Society | 06/2016 | Basic Statistics
 __Master of Arts (M.A.)__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
 _ERASMUS student_ | Cork Institute of Technology | 09/2011 – 06/2012 | Multimedia Final Year Course
 __Bachelor of Arts (B.A.)__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
