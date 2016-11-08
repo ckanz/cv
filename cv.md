@@ -7,7 +7,7 @@ I ❤ code, music & especially data. Born in [Aschaffenburg](https://en.wikipedi
 
 ## Work Experience
 
-Role | Job | Time | Type
+Role | Company | Time | Type
 -----|-----|------|------
 Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full­time
 Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full­time
@@ -24,17 +24,12 @@ Data Visualisation, Interface & Interaction design, User Experience Testing & De
 Microsoft Kinect, Arduino
 
 ## Education
-#### Master of Arts (M.A.)​, Media Direction, First Class Honours
-- 09/2011 – 03/2014
-- Hochschule Darmstadt
 
-#### Multimedia Final Year Course
-- 09/2011 – 06/2012
-- Cork Institute of Technology
-
-#### Bachelor of Arts (B.A.)​, Digital Media, First Class Honours
-- 09/2008 – 06/2011
-- Hochschule Darmstadt
+Degree | Institute | Time | Course
+-----|-----|------|------
+__Master of Arts (M.A.)​,First Class Honours__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
+_ERASMUS student_ | Cork Institute of Technology | 09/2011 – 06/2012 | Multimedia Final Year Course
+__Bachelor of Arts (B.A.), First Class Honours__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
 
 ## Favorite Books
 - Edward R. Tufte, The Visual Display of Quantitative Information
