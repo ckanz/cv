@@ -14,20 +14,20 @@ Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full­time
 Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-­time
 
 ## Skills
-#### Languages
-JavaScript, Python, C#, SQL, Bash, PowerShell
-#### Software
-Plotly, Jupyter, Atom, Vim, Google Cloud, Microsoft Azure, Unity, Tableau, Microsoft Excel, Microsoft Visual Studio
-#### Design
-Data Visualisation, Interface & Interaction design, User Experience Testing & Design
-#### Hardware
-Microsoft Kinect, Arduino
+- __Languages__
+  - JavaScript, Python, C#, SQL, Bash, PowerShell
+- __Software__
+  - Plotly, Jupyter, Atom, Vim, Google Cloud, Microsoft Azure, Unity, Tableau, Microsoft Excel, Microsoft Visual Studio
+- __Design__
+  - Data Visualisation, Interface & Interaction design, User Experience Testing & Design
+- __Hardware__
+  - Microsoft Kinect, Arduino
 
 ## Education
 
 Degree | Institute | Time | Course
 -----|-----|------|------
-__Master of Arts (M.A.)​,First Class Honours__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
+__Master of Arts (M.A.), First Class Honours__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
 _ERASMUS student_ | Cork Institute of Technology | 09/2011 – 06/2012 | Multimedia Final Year Course
 __Bachelor of Arts (B.A.), First Class Honours__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
 
