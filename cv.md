@@ -12,10 +12,10 @@ I :heart: code, music & especially data. I was born in [Aschaffenburg](https://e
 
 Role | Company | Time | Type
 -----|-----|------|------
-Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full-time
-Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full-time
-Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-time (during MA thesis)
-Retailer | __Media Markt__ | 03/2008 - 09/2011 | Part-time (during College)
+Data Visualisation Engineer | Kahoot! |Since 09/2015 | Full-time
+Data Experience Engineer | DataShaka | 03/2014 - 09/2015 | Full-time
+Data Curator | DataShaka | 03/2014 - 09/2015 | Part-time (during MA thesis)
+Retailer | Media Markt | 03/2008 - 09/2011 | Part-time (during College)
 
 -----
 
@@ -36,9 +36,9 @@ Retailer | __Media Markt__ | 03/2008 - 09/2011 | Part-time (during College)
 Degree | Institute | Time | Course
 -----|-----|------|------
 _Certificate_ | Royal Statistical Society | 06/2016 | Basic Statistics
-__Master of Arts (M.A.)__ | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
+Master of Arts (M.A.) | Hochschule Darmstadt | 09/2011 – 03/2014 | Media Direction
 _ERASMUS student_ | Cork Institute of Technology | 09/2011 – 06/2012 | Multimedia Final Year Course
-__Bachelor of Arts (B.A.)__ | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
+Bachelor of Arts (B.A.) | Hochschule Darmstadt | 09/2008 – 06/2011 | Digital Media
 
 -----
 
