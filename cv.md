@@ -6,20 +6,12 @@ I ❤ code, music & especially data. Born in [Aschaffenburg](https://en.wikipedi
 - [LinkedIn](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
 ## Work Experience
-#### Data Visualisation Engineer
-- Since 09/2015
-- __Kahoot!__​, 1­4 Singer Street, EC2A 4BQ London
-- Full­time
 
-#### Data Experience Engineer
-- 03/2014 - 09/2015
-- __DataShaka​__, 53 Frith Street, W1D 4SN London
-- Full­time
-
-#### Data Curator
-- 03/2013 – 03­/2014
-- __DataShaka​__, 53 Frith Street, W1D 4SN London
-- Part­time
+Role | Job | Time | Type
+-----|-----|------|------
+Data Visualisation Engineer | __Kahoot!__ |Since 09/2015 | Full­time
+Data Experience Engineer | __DataShaka__ | 03/2014 - 09/2015 | Full­time
+Data Curator | __DataShaka__ | 03/2014 - 09/2015 | Part-­time
 
 ## Skills
 #### Languages
