@@ -1,9 +1,9 @@
 # Life Career - Clemens Anzmann
 
 ## Personal Details
-I ♥ code, music & especially data. I was born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/), finished my master degree in Media Direction at [h_da](https://www.h-da.de/) in Germany, and now I'm happily working as a data visualisation engineer in London :bar_chart: .
+I love code, music & especially data. I was born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/), finished my master degree in Media Direction at [h_da](https://www.h-da.de/) in Germany, and now I'm happily working as a data visualisation engineer in London.
 
-[:link:Twitter](https://twitter.com/clemens_anzmann) [:link:GitHub](https://github.com/ckanz) [:link:Homepage](https://www.clemens_anzmann.com) [:link:LinkedIn](https://www.linkedin.com/in/clemens-anzmann-9135513b)
+[→__Twitter__](https://twitter.com/clemens_anzmann) [→__GitHub__](https://github.com/ckanz) [→__Homepage__](https://www.clemens_anzmann.com) [→__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
 ## Work Experience
 
@@ -15,10 +15,10 @@ Data Curator | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Part
 Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/) | 03/2008 - 09/2011 | Part-time (during College)
 
 ## Skills
-- __Languages__ `JavaScript` `Python` `C#` `SQL` `Bash` `PowerShell`
-- __Software__ `Plotly` `Jupyter` `Atom` `Vim` `Google Cloud` `Microsoft Azure` `Unity` `Tableau` `Microsoft Excel`
-- __Design__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
-- __Hardware__ `Microsoft` `Kinect` `Arduino`
+- __Languages:__ `JavaScript` `Python` `C#` `SQL` `Bash` `PowerShell`
+- __Software:__ `Plotly` `Jupyter` `Atom` `Vim` `Google Cloud` `Microsoft Azure` `Unity` `Tableau` `Microsoft Excel`
+- __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
+- __Hardware:__ `Microsoft` `Kinect` `Arduino`
 
 ## Education
 
