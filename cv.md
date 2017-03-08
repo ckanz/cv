@@ -3,7 +3,7 @@
 ## Personal Details
 I love code, music & especially data. I was born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/), finished my master degree in Media Direction at [h_da](https://www.h-da.de/) in Germany, and now I'm happily working as a data visualisation engineer in London.
 
-[→__Twitter__](https://twitter.com/clemens_anzmann) [→__GitHub__](https://github.com/ckanz) [→__Homepage__](https://www.clemens_anzmann.com) [→__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
+[→__Twitter__](https://twitter.com/clemens_anzmann) [→__GitHub__](https://github.com/ckanz) [→__Homepage__](https://www.clemens-anzmann.com) [→__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
 ## Work Experience
 
