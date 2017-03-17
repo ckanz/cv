@@ -24,12 +24,11 @@ Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/)
 
 Degree | Institute | Time | Course
 ---------------|---------------|----------------|----------------
-_Attendee_ | [Visualising Data](http://www.visualisingdata.com/) | 03/2017 |
-Data Visualisation & Infographic Design Workshop
-_Certificate_ | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
-Master of Arts (M.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
-_ERASMUS student_ | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
-Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
+Attendee | [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | Data Visualisation & Infographic Design Workshop
+Certificate | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
+*Master of Arts (M.A.)* | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
+ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
+*Bachelor of Arts (B.A.)* | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
 
 ## Favorite Books
 - Edward R. Tufte, _The Visual Display of Quantitative Information_ & _Envisioning Information_
