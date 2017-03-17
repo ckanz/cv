@@ -15,10 +15,10 @@ Data Curator | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Part
 Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/) | 03/2008 - 09/2011 | Part-time (during College)
 
 ## Skills
-- __Languages:__ `JavaScript` `Python` `C#` `SQL` `Bash` `PowerShell`
-- __Software:__ `Plotly` `Jupyter` `Atom` `Vim` `Google Cloud` `Microsoft Azure` `Unity` `Tableau` `Microsoft Excel`
+- __Languages & libraries:__ `JavaScript` `d3.js` `Vega.js` `Highcharts.js` `Plotly.js` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
+- __Software:__ `Plotly` `Jupyter` `Google BigQuery` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Git` `Atom` `Vim` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
-- __Hardware:__ `Microsoft` `Kinect` `Arduino`
+- __Hardware:__ `Microsoft Kinect` `Arduino`
 
 ## Education
 
