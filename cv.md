@@ -24,6 +24,8 @@ Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/)
 
 Degree | Institute | Time | Course
 ---------------|---------------|----------------|----------------
+_Attendee_ | [Visualising Data](http://www.visualisingdata.com/) | 03/2017 |
+Data Visualisation & Infographic Design Workshop
 _Certificate_ | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
 Master of Arts (M.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
 _ERASMUS student_ | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
