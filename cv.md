@@ -15,19 +15,20 @@ Data Curator | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Part
 Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/) | 03/2008 - 09/2011 | Part-time (during College)
 
 ## Skills
-- __Languages:__ `JavaScript` `Python` `C#` `SQL` `Bash` `PowerShell`
-- __Software:__ `Plotly` `Jupyter` `Atom` `Vim` `Google Cloud` `Microsoft Azure` `Unity` `Tableau` `Microsoft Excel`
+- __Languages & libraries:__ `JavaScript` `d3.js` `Vega.js` `Highcharts.js` `Plotly.js` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
+- __Software:__ `Plotly` `Jupyter` `Google BigQuery` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Git` `Atom` `Vim` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
-- __Hardware:__ `Microsoft` `Kinect` `Arduino`
+- __Hardware:__ `Microsoft Kinect` `Arduino`
 
 ## Education
 
 Degree | Institute | Time | Course
 ---------------|---------------|----------------|----------------
-_Certificate_ | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
-Master of Arts (M.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
-_ERASMUS student_ | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
-Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
+Attendee | [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | Data Visualisation & Infographic Design Workshop
+Certificate | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
+__Master of Arts (M.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
+ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
+__Bachelor of Arts (B.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
 
 ## Favorite Books
 - Edward R. Tufte, _The Visual Display of Quantitative Information_ & _Envisioning Information_
