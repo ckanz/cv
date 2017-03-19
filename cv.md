@@ -1,7 +1,7 @@
 # Life Career - Clemens Anzmann
 
 ## Personal Details
-I love code, music & especially data. I was born in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/), finished my master degree in Media Direction at [h_da](https://www.h-da.de/) in Germany, and now I'm happily working as a data visualisation engineer in London.
+I love code and data and enjoy creating meaningful data visualisations for the web. I was born and raised in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), later visited the bachelor course for multimedia in Ireland at [CIT](http://www.cit.ie/) and received my master degree in Media Direction at the Hochschule Darmstadt ([h_da](https://www.h-da.de/)) in Germany. My master thesis was on data sonfication in the workplace, which I wrote at the London data startup DataShaka. Now I'm working as a data visualisation engineer in London. When I'm not working with data, I enjoy making music and photography.
 
 • [__Twitter__](https://twitter.com/clemens_anzmann) • [__GitHub__](https://github.com/ckanz) • [__Homepage__](http://clemens-anzmann.com) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
