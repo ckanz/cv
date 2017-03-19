@@ -6,7 +6,6 @@ I love code and data and enjoy creating meaningful data visualisations for the w
 • [__Twitter__](https://twitter.com/clemens_anzmann) • [__GitHub__](https://github.com/ckanz) • [__Homepage__](http://clemens-anzmann.com) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
 ## Work Experience
-
 Role | Company | Time | Type
 ---------------|---------------|----------------|----------------
 Data Visualisation Engineer | [Kahoot!](https://getkahoot.com/) |Since 09/2015 | Full-time
@@ -21,7 +20,6 @@ Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/)
 - __Hardware:__ `Microsoft Kinect` `Arduino`
 
 ## Education
-
 Degree | Institute | Time | Course
 ---------------|---------------|----------------|----------------
 __Master of Arts (M.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
@@ -29,15 +27,15 @@ ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 �
 __Bachelor of Arts (B.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
 
 ## Training
-
 Institute | Time | Course
 ---------------|----------------|----------------
 [PlotCon](https://plotcon.plot.ly/) | 03/2017 | _"The world's most visionary conference for data visualization"_
 [Visualising Data](http://www.visualisingdata.com/) | 11/2016 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
 [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | [Basic Statistics](https://www.rss.org.uk/RSS/Training/Public_courses/RSS/pro_dev/RSS_training_courses_sub/test_training.aspx?hkey=80752d6b-205c-4865-8068-ab827079ced2)
 
-
 ## Favorite Books
 - Edward R. Tufte, _The Visual Display of Quantitative Information_ & _Envisioning Information_
 - Steve Krug, _Don’t make me think_
-- Andy Hunt, _The Pragmatic Programmer_ & _Pragmatic Thinking and Learning_
+- Kyle Simpson, _You Don't Know JS_ Series
+- Robert Cecil Martin, _The Clean Coder: A Code of Conduct for Professional Programmers_
+- Andy Hunt, _The Pragmatic Programmer_ and _Pragmatic Thinking and Learning_
