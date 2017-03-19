@@ -24,12 +24,18 @@ Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/)
 
 Degree | Institute | Time | Course
 ---------------|---------------|----------------|----------------
-Attendee | [PlotCon](https://plotcon.plot.ly/) | 03/2017 | "The world's most visionary conference for data visualization"
-Attendee | [Visualising Data](http://www.visualisingdata.com/) | 11/2016 | Data Visualisation & Infographic Design Workshop
-Certificate | [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | Basic Statistics
 __Master of Arts (M.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
 ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
 __Bachelor of Arts (B.A.)__ | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
+
+## Training
+
+Institute | Time | Course
+---------------|----------------|----------------
+[PlotCon](https://plotcon.plot.ly/) | 03/2017 | _"The world's most visionary conference for data visualization"_
+[Visualising Data](http://www.visualisingdata.com/) | 11/2016 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
+[Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | [Basic Statistics](https://www.rss.org.uk/RSS/Training/Public_courses/RSS/pro_dev/RSS_training_courses_sub/test_training.aspx?hkey=80752d6b-205c-4865-8068-ab827079ced2)
+
 
 ## Favorite Books
 - Edward R. Tufte, _The Visual Display of Quantitative Information_ & _Envisioning Information_
