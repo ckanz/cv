@@ -30,7 +30,7 @@ Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008
 Institute | Time | Course
 ---------------|----------------|----------------
 [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
-[Visualising Data](http://www.visualisingdata.com/) | 11/2016 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
+[PlotCon](https://plotcon.plot.ly/) | 11/2016 | _"The world's most visionary conference for data visualization"_
 [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | [Basic Statistics](https://www.rss.org.uk/RSS/Training/Public_courses/RSS/pro_dev/RSS_training_courses_sub/test_training.aspx?hkey=80752d6b-205c-4865-8068-ab827079ced2)
 
 ## Favorite Books
