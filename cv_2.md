@@ -8,9 +8,9 @@ I love code and data and enjoy creating meaningful data visualisations for the w
 ## Work Experience
 Role | Company | Time | Type
 ---------------|---------------|----------------|----------------
-Data Visualisation Engineer | [Kahoot!](https://getkahoot.com/) |Since 09/2015 | Full-time
-Data Experience Engineer | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Full-time
-Data Curator | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Part-time (during MA thesis)
+__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories using data both internally and externally for the users. Also making sure that all data that is needed to make important decisions is collected._ | [Kahoot!](https://getkahoot.com/) |Since 09/2015 | Full-time
+__Data Experience Engineer__ <br> _Process and automation and visualisation: Making DataShaka transparent and empowering users to fully overview and engage with their data on the DataShaka platform. Generating and managing the road map to get the DataShaka's tools to the promised land of automation and self-serve. Mostly working with C# and JavaScript within a ASP.Net framework. Also writing data pipelines in PowerShell and maintaining the operational infrastructure on Microsoft Azure. Leading the User Experience and the Internal Data guild within the company._ | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Full-time
+__Data Curator__ <br> _Part-time employment while working on my master thesis at the Hochschule Darmstadt. Processing and curating data through DataShaka tools (C# console utilities) and PowerShell scripts. Main responsibility: Process automation and removal of manual tasks and positive stops in the process within a Microsoft Azure powered cloud infrastructure._ | [DataShaka](http://www.datashaka.com/) | 03/2014 - 09/2015 | Part-time (during MA thesis)
 Retailer (computers and cell phones) | [Media Markt](http://www.mediamarkt.com/) | 03/2008 - 09/2011 | Part-time (during College)
 
 ## Skills
