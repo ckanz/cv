@@ -3,19 +3,18 @@
 ## Personal Details
 I love code and data and enjoy creating meaningful data visualisations for the web. I was born and raised in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), later visited the bachelor course for multimedia in Ireland at the [CIT](http://www.cit.ie/) and received my master degree in Media Direction at the [Hochschule Darmstadt](https://www.h-da.de/) in Germany. My master thesis was on data sonfication in the workplace, which I wrote at the London data startup DataShaka. Now I'm working as a data visualisation engineer in London. When I'm not working with data, I enjoy making music and photography.
 
-• [__Twitter__](https://twitter.com/clemens_anzmann) • [__GitHub__](https://github.com/ckanz) • [__Homepage__](http://clemens-anzmann.com) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
+• [__GitHub__](https://github.com/ckanz)  • [__Twitter__](https://twitter.com/clemens_anzmann) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
 ## Work Experience
 Role | Company | Time | Type
 ---------------|---------------|----------------|----------------
-__Senior Data Visualisation Engineer__ <br> _Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts._ <br> `JavaScript` `TypeScript` `d3.js` `AngluarJS` `Node.js` `Jasmine` `Python` `Google Analytics` | __[EmpathyBroker](https://www.empathybroker.com/)__ |Since 10/2017 | Full-time
-__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected._ <br> `JavaScript` `d3.js` `Plot.ly` `React` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `SQL` `Bash` `Jupyter` `Google BigQuery` `Google Analytics` `Tableau` | __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
-__Data Experience Engineer__ <br> _Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure._ <br> `JavaScript` `d3.js` `Highcharts.js` `C#` `SQL` `PowerShell` `Microsoft Azure` `Tableau` `Microsoft Excel`| __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
-__Data Curator__ <br> _Processing and curating data files through pipelines using DataShaka tools (C# console utilities) and PowerShell scripts. Main responsibility: Process automation and removal of manual tasks and positive stops in the process within a Microsoft Azure powered cloud infrastructure._ <br> `C#` `SQL` `PowerShell` `Microsoft Azure` `Tableau` `Microsoft Excel`| __[DataShaka](http://www.datashaka.com/)__ | 09/2013 - 09/2014 | Part-time (during master thesis)
+__Senior Data Visualisation Engineer__ <br> _Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts._| __[EmpathyBroker](https://www.empathybroker.com/)__ |Since 10/2017 | Full-time
+__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected._| __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
+__Data Experience Engineer__ <br> _Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure._ | __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
 
 ## Skills
-- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Highcharts.js` `React` `AngluarJS` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
-- __Software:__ `Plotly` `Jupyter` `Google BigQuery` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Git` `Atom` `Vim` `Unity` `Tableau` `Microsoft Excel`
+- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Echarts` `Highcharts` `React` `AngluarJS` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
+- __Software:__ `Plotly` `Jupyter` `Google BigQuery` `MongoDB` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
 
 ## Education
@@ -34,7 +33,6 @@ Institute | Time | Course
 
 ## Favorite Books
 - Edward R. Tufte, _The Visual Display of Quantitative Information_ and _Envisioning Information_
-- Steve Krug, _Don’t make me think_
 - Kyle Simpson, _You Don't Know JS_ Series
 - Robert Cecil Martin, _The Clean Coder: A Code of Conduct for Professional Programmers_
 - Andy Hunt, _The Pragmatic Programmer_ and _Pragmatic Thinking and Learning_
