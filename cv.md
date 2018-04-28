@@ -8,12 +8,13 @@ I love code and data and enjoy creating meaningful data visualisations for the w
 ## Work Experience
 Role | Company | Time | Type
 ---------------|---------------|----------------|----------------
-__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected._ <br> `JavaScript` `d3.js` `Plot.ly` `React` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `SQL` `Bash` `Jupyter` `Google BigQuery` `Google Analytics` `Tableau` | __[Kahoot!](https://getkahoot.com/)__ |Since 09/2015 | Full-time
+__Senior Data Visualisation Engineer__ <br> _Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts._ <br> `JavaScript` `TypeScript` `d3.js` `AngluarJS` `Node.js` `Jasmine` `Python` `Google Analytics` | __[EmpathyBroker](https://www.empathybroker.com/)__ |Since 10/2017 | Full-time
+__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected._ <br> `JavaScript` `d3.js` `Plot.ly` `React` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `SQL` `Bash` `Jupyter` `Google BigQuery` `Google Analytics` `Tableau` | __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
 __Data Experience Engineer__ <br> _Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure._ <br> `JavaScript` `d3.js` `Highcharts.js` `C#` `SQL` `PowerShell` `Microsoft Azure` `Tableau` `Microsoft Excel`| __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
 __Data Curator__ <br> _Processing and curating data files through pipelines using DataShaka tools (C# console utilities) and PowerShell scripts. Main responsibility: Process automation and removal of manual tasks and positive stops in the process within a Microsoft Azure powered cloud infrastructure._ <br> `C#` `SQL` `PowerShell` `Microsoft Azure` `Tableau` `Microsoft Excel`| __[DataShaka](http://www.datashaka.com/)__ | 09/2013 - 09/2014 | Part-time (during master thesis)
 
 ## Skills
-- __Languages & libraries:__ `JavaScript` `d3.js` `Plot.ly` `Highcharts.js` `React` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
+- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Highcharts.js` `React` `AngluarJS` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
 - __Software:__ `Plotly` `Jupyter` `Google BigQuery` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Git` `Atom` `Vim` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
 
@@ -24,7 +25,7 @@ Master of Arts (M.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 �
 ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
 Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
 
-## Training
+## Training & Conferences
 Institute | Time | Course
 ---------------|----------------|----------------
 [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
