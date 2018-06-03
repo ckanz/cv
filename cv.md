@@ -8,9 +8,9 @@ I love code and data and enjoy creating meaningful data visualisations for the w
 ## Work Experience
 Role | Company | Time | Type
 ---------------|---------------|----------------|----------------
-__Senior Data Visualisation Engineer__ <br> _Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts._| __[EmpathyBroker](https://www.empathybroker.com/)__ |Since 10/2017 | Full-time
-__Data Visualisation Engineer__ <br> _Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected._| __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
-__Data Experience Engineer__ <br> _Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure._ | __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
+__Senior Data Visualisation Engineer__ <br> Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts.| __[EmpathyBroker](https://www.empathybroker.com/)__ |Since 10/2017 | Full-time
+__Data Visualisation Engineer__ <br> Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected.| __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
+__Data Experience Engineer__ <br> Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure. | __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
 
 ## Skills
 - __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Echarts` `Highcharts` `React` `AngluarJS` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
@@ -27,12 +27,13 @@ Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008
 ## Training & Conferences
 Institute | Time | Course
 ---------------|----------------|----------------
+[OpenVisConf](http://www.openvisconf.com/) | 05/2018 | "Conference centered around the practice of visualizing data with open source tools on the web"
 [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
-[PlotCon](https://plotcon.plot.ly/) | 11/2016 | _"The world's most visionary conference for data visualization"_
+[PlotCon](https://plotcon.plot.ly/) | 11/2016 | "The world's most visionary conference for data visualization"
 [Royal Statistical Society](https://www.rss.org.uk/) | 06/2016 | [Basic Statistics](https://www.rss.org.uk/RSS/Training/Public_courses/RSS/pro_dev/RSS_training_courses_sub/test_training.aspx?hkey=80752d6b-205c-4865-8068-ab827079ced2)
 
 ## Favorite Books
-- Edward R. Tufte, _The Visual Display of Quantitative Information_ and _Envisioning Information_
-- Kyle Simpson, _You Don't Know JS_ Series
-- Robert Cecil Martin, _The Clean Coder: A Code of Conduct for Professional Programmers_
-- Andy Hunt, _The Pragmatic Programmer_ and _Pragmatic Thinking and Learning_
+- Edward R. Tufte, "The Visual Display of Quantitative Information" and "Envisioning Information"
+- Kyle Simpson, "You Don't Know JS" Series
+- Robert Cecil Martin, "The Clean Coder: A Code of Conduct for Professional Programmers"
+- Andy Hunt, "The Pragmatic Programmer" and "Pragmatic Thinking and Learning"
