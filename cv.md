@@ -14,8 +14,8 @@ __Data Visualisation Engineer__ <br> Engineer to help uncover insights and tell 
 __Data Experience Engineer__ <br> Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure. | __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
 
 ## Skills
-- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Echarts` `Highcharts` `React` `AngluarJS` `Node.js` `Jasmine` `Python` `pandas` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
-- __Software:__ `Plotly` `Jupyter` `Google BigQuery` `MongoDB` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Unity` `Tableau` `Microsoft Excel`
+- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Echarts` `React` `AngluarJS` `Node.js` `Jasmine` `TestCafe` `Python` `pandas` `cypher` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
+- __Software:__ `Neo4j` `Jupyter` `Google BigQuery` `AWS` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
 
 ## Education
