@@ -7,7 +7,7 @@ I love code and data and enjoy creating meaningful data visualisations for the w
 
 ## Work Experience
 Role | Company | Time | Type
----------------|---------------|----------------|----------------
+----------------------------------------------------------------------------------------------|-----------|-------------|-------------
 __Software Engineer__ <br> Software Engineer building the graph visualisation application [Bloom](https://neo4j.com/bloom/).| __[Neo4j](https://neo4j.com/)__ |Since 01/2019 | Full-time
 __Senior Data Visualisation Engineer__ <br> Engineer to provide visualisations to make complex information and data sets understandable through rich visual formats that are insightful and actionable, while functioning as an integrator between business needs and technology solutions, helping to create new visualisations based on search concepts.| __[EmpathyBroker](https://www.empathybroker.com/)__ |10/2017 - 12/2018 | Full-time
 __Data Visualisation Engineer__ <br> Engineer to help uncover insights and tell stories using data with a main focus on using visualisation to tell stories internally and externally. Also making sure that all data that is needed to make important decisions is collected.| __[Kahoot!](https://getkahoot.com/)__ | 09/2015 - 10/2016 | Full-time
@@ -20,14 +20,14 @@ __Data Experience Engineer__ <br> Engineer to automate and visualise data flows 
 
 ## Education
 Degree | Institute | Time | Course
----------------|---------------|----------------|----------------
+--------------------------|--------------------------|--------------------------|--------------------------
 Master of Arts (M.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2011 – 03/2014 | Media Direction
 ERASMUS student | [Cork Institute of Technology](http://www.cit.ie/) | 09/2011 – 06/2012 | Multimedia Final Year Course
 Bachelor of Arts (B.A.) | [Hochschule Darmstadt](https://www.h-da.de/) | 09/2008 – 06/2011 | Digital Media
 
 ## Training & Conferences
 Institute | Time | Course
----------------|----------------|----------------
+--------------------------|--------------------------|-----------------------------------------------------
 [OpenVisConf](http://www.openvisconf.com/) | 05/2018 | "Conference centered around the practice of visualizing data with open source tools on the web"
 [Visualising Data](http://www.visualisingdata.com/) | 03/2017 | [Data Visualisation & Infographic Design Workshop](http://www.visualisingdata.com/training/)
 [PlotCon](https://plotcon.plot.ly/) | 11/2016 | "The world's most visionary conference for data visualization"
