@@ -1,7 +1,7 @@
 # Life Career - Clemens Anzmann
 
 ## Personal Details
-I love code and data and enjoy creating meaningful data visualisations for the web. I was born and raised in [Aschaffenburg](https://en.wikipedia.org/wiki/Aschaffenburg), later visited the bachelor course for multimedia in Ireland at the [CIT](http://www.cit.ie/) and received my master degree in Media Direction at the [Hochschule Darmstadt](https://www.h-da.de/) in Germany. My master thesis was on data sonfication in the workplace, which I wrote at the London data startup DataShaka. Now I'm working as a data visualisation engineer in London. When I'm not working with data, I enjoy making music and photography.
+I'm a software developer who loves to create products that help people explore exciting data. My educational background is in digital media, which I studied at the [Cork Institue of Technolgy](http://www.cit.ie/) and [Hochschule Darmstadt](https://www.h-da.de/), where I received my master's degree. My master thesis was on data sonfication in the workplace, which I wrote at the London-based startup DataShaka. I stayed in London with the company and started my journey as a software developer with a passion for data. Now I'm working on the graph visualisation application [Bloom](https://neo4j.com/bloom/) for [Neo4j](https://neo4j.com/). When I'm not writing code, I enjoy making music and photography.
 
 • [__GitHub__](https://github.com/ckanz)  • [__Twitter__](https://twitter.com/clemens_anzmann) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
