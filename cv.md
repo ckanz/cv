@@ -1,7 +1,7 @@
 # Life Career - Clemens Anzmann
 
 ## Personal Details
-I'm a software developer who loves to create products that help people explore exciting data. My educational background is in digital media, which I studied at the [Cork Institue of Technolgy](http://www.cit.ie/) and [Hochschule Darmstadt](https://www.h-da.de/), where I received my master's degree. My master thesis was on data sonfication in the workplace, which I wrote at the London-based startup DataShaka. I stayed in London with the company and started my journey as a software developer with a passion for data. Now I'm working on the graph visualisation application [Bloom](https://neo4j.com/bloom/) for [Neo4j](https://neo4j.com/). When I'm not writing code, I enjoy making music and photography.
+I'm a software developer who loves to create products that help people explore exciting data. My educational background is in digital media, which I studied at the [Cork Institue of Technolgy](http://www.cit.ie/) and [Hochschule Darmstadt](https://www.h-da.de/). My master thesis was on data sonfication in the workplace, which I researched a London-based startup. After receiving my degree, I stayed with the startup company and began my journey as a software developer with a passion for data. I am now working for [Neo4j](https://neo4j.com/) on the graph visualisation application [Bloom](https://neo4j.com/bloom/). When I'm not writing code, I enjoy making music and photography.
 
 • [__GitHub__](https://github.com/ckanz)  • [__Twitter__](https://twitter.com/clemens_anzmann) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b)
 
@@ -14,8 +14,8 @@ __Data Visualisation Engineer__ <br> Engineer to help uncover insights and tell 
 __Data Experience Engineer__ <br> Engineer to automate and visualise data flows within DataShaka to its users by building web applications with C# and JavaScript within a ASP.Net framework while maintaining data pipelines in PowerShell on Microsoft Azure. | __[DataShaka](http://www.datashaka.com/)__ | 09/2014 - 09/2015 | Full-time
 
 ## Skills
-- __Languages & libraries:__ `JavaScript` `TypeScript` `d3.js` `Plot.ly` `Echarts` `React` `AngluarJS` `Node.js` `Jasmine` `TestCafe` `Python` `pandas` `cypher` `matplotlib` `C#` `SQL` `Bash` `PowerShell`
-- __Software:__ `Neo4j` `Jupyter` `Google BigQuery` `AWS` `Microsoft Azure` `Looker` `Google Analytics` `Amplitude` `Unity` `Tableau` `Microsoft Excel`
+- __Languages & libraries:__ `JavaScript` `TypeScript` `React` `Jest` `Jasmine` `d3.js` `web-gl` `Plot.ly` `Echarts` `Node.js` `TestCafe` `Python` `pandas` `matplotlib` `C#` `SQL` `Cypher` `Bash` `PowerShell`
+- __Software:__ `AWS` `Google Cloud` `Microsoft Azure` `Neo4j` `Jupyter` `Looker` `Google Analytics` `Amplitude` `Unity` `Tableau` `Microsoft Excel`
 - __Design:__ `Data Visualisation` `Interface & Interaction design` `User Experience Testing & Design`
 
 ## Education
