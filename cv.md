@@ -3,7 +3,7 @@
 ## Personal Details
 I'm a software developer who loves to create products that help people explore exciting data. My educational background is in digital media, which I studied at the [Cork Institue of Technolgy](http://www.cit.ie/) and [Hochschule Darmstadt](https://www.h-da.de/). My master thesis was on data sonfication in the workplace, which I researched a London-based startup. After receiving my degree, I stayed with the startup company and began my journey as a software developer with a passion for data. I am now working for [Neo4j](https://neo4j.com/) on the graph visualisation application [Bloom](https://neo4j.com/bloom/). When I'm not writing code, I enjoy making music and photography.
 
-You can find me on my • [__GitHub__](https://github.com/ckanz)  • [__Twitter__](https://twitter.com/clemens_anzmann) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b) • [__Website__](https://clemens-anzmann.com)
+You can find me on my • [__GitHub__](https://github.com/ckanz)  • [__Twitter__](https://twitter.com/clemens_anzmann) • [__LinkedIn__](https://www.linkedin.com/in/clemens-anzmann-9135513b) • [__Website__](http://clemens-anzmann.com)
 
 ## Work Experience
 Role | Company | Time | Type
